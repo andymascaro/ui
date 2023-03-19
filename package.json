@@ -6,6 +6,7 @@
     "start": "ts-node src/index.ts"
   },
   "dependencies": {
+    "chalk": "^4",
     "chromedriver": "^111.0.0",
     "selenium-webdriver": "^4.1.0"
   },
